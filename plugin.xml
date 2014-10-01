@@ -1,0 +1,12 @@
+<!-- 
+  
+  DITA 1.3 base
+  
+  -->
+<plugin id="org.dita.dita13base.pdf">
+  <!-- NOTE: This plugin is not automatically integrated into the
+             base PDF transform so that it's inclusion can be
+             controlled so that it doesn't inadvertenty override
+             templates for specializations of topic/div.
+    -->
+</plugin>
